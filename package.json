@@ -7,13 +7,15 @@
     "contentful": "^7.4.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-scripts": "^2.1.8",
+    "react-test-renderer": "^16.8.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "jest": "jest"
   },
   "eslintConfig": {
     "extends": "react-app"
